@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GLF-T2-G1/static/css/main.198d3684.chunk.css",
+    "main.js": "/GLF-T2-G1/static/js/main.1e3d4216.chunk.js",
+    "main.js.map": "/GLF-T2-G1/static/js/main.1e3d4216.chunk.js.map",
+    "runtime-main.js": "/GLF-T2-G1/static/js/runtime-main.5cb7131e.js",
+    "runtime-main.js.map": "/GLF-T2-G1/static/js/runtime-main.5cb7131e.js.map",
+    "static/js/2.a1e6029e.chunk.js": "/GLF-T2-G1/static/js/2.a1e6029e.chunk.js",
+    "static/js/2.a1e6029e.chunk.js.map": "/GLF-T2-G1/static/js/2.a1e6029e.chunk.js.map",
+    "index.html": "/GLF-T2-G1/index.html",
+    "static/css/main.198d3684.chunk.css.map": "/GLF-T2-G1/static/css/main.198d3684.chunk.css.map",
+    "static/js/2.a1e6029e.chunk.js.LICENSE.txt": "/GLF-T2-G1/static/js/2.a1e6029e.chunk.js.LICENSE.txt",
+    "static/js/main.1e3d4216.chunk.js.LICENSE.txt": "/GLF-T2-G1/static/js/main.1e3d4216.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cb7131e.js",
+    "static/js/2.a1e6029e.chunk.js",
+    "static/css/main.198d3684.chunk.css",
+    "static/js/main.1e3d4216.chunk.js"
+  ]
+}
